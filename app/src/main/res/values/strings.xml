@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DVD Bounce</string>
+    <string name="hud_bounces_label">BOUNCES</string>
+    <string name="hud_corners_label">CORNERS</string>
+    <string name="hud_tap_hint">Tap anywhere to hide controls</string>
+    <string name="cd_play">Resume animation</string>
+    <string name="cd_pause">Pause animation</string>
+    <string name="cd_nudge">Randomize bounce angle</string>
+    <string name="cd_palette">Cycle color palette</string>
+    <string name="cd_settings">Open screensaver settings</string>
+    <string name="cd_dvd_canvas">Bouncing DVD logo screensaver canvas. Tap to toggle controls.</string>
+    <string name="corner_hit_banner">CORNER HIT!</string>
+    <string name="settings_title">Screensaver Studio</string>
+    <string name="settings_subtitle">Tune physics, phosphor effects &amp; palettes</string>
+    <string name="settings_speed_label">Bounce Speed</string>
+    <string name="settings_size_label">Logo Scale</string>
+    <string name="settings_palette_label">Color Palette</string>
+    <string name="settings_effects_label">Display &amp; Effects</string>
+    <string name="toggle_neon_glow">Neon Glow Aura</string>
+    <string name="toggle_neon_glow_desc">Soft chromatic bloom behind the DVD logo</string>
+    <string name="toggle_crt_scanlines">CRT Scanlines</string>
+    <string name="toggle_crt_scanlines_desc">Subtle retro monitor scanline texture</string>
+    <string name="toggle_oled_black">Pure OLED Black</string>
+    <string name="toggle_oled_black_desc">True #000000 canvas with zero vignette</string>
+    <string name="toggle_immersive">Immersive Fullscreen</string>
+    <string name="toggle_immersive_desc">Hide system bars while controls are hidden</string>
+    <string name="toggle_keep_screen_on">Keep Screen On</string>
+    <string name="toggle_keep_screen_on_desc">Prevent device sleep while screensaver runs</string>
+    <string name="toggle_corner_haptics">Corner Impact Haptics</string>
+    <string name="toggle_corner_haptics_desc">Vibrate on wall and corner collisions</string>
+    <string name="stats_lifetime_title">Lifetime Telemetry</string>
+    <string name="stats_reset">Reset</string>
+    <string name="system_screensaver_button">Set as System Screensaver</string>
+    <string name="system_screensaver_unavailable">System screensaver settings are unavailable on this device</string>
+</resources>

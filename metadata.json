@@ -1,0 +1,6 @@
+{
+  "name": "DVD Bounce",
+  "description": "A classic retro screensaver with a bouncing DVD logo that shifts color on every wall collision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
